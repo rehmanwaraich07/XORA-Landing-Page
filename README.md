@@ -15,5 +15,3 @@
 
 <h3 align="center">Modern UI/UX SaaS Website</h3>
 
-
-##     "react-slidedown": "^2.4.7"
